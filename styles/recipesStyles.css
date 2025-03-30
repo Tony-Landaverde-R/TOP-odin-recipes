@@ -1,0 +1,42 @@
+body{
+    background-color: #cefa3150;
+    text-align: center;
+}
+
+a{
+    background-color: #ff060610;
+    border: solid ;
+    color: black;
+    padding: 5px;
+    text-decoration: none;
+}
+
+a:hover{
+    color:red;
+}
+
+h1{
+    border: black dotted;
+    font-size: 50px;
+}
+
+h2{
+    border: black double;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+p, li{
+    font-size: 20px;
+    list-style-type: none;
+}
+
+li{
+    border: black solid ;
+    margin: 5px;
+    padding: 5px;
+}
